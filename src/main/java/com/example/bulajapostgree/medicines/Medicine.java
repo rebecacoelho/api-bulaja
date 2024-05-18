@@ -21,5 +21,5 @@ public class Medicine {
     private String descricao;
     private String efeitosColaterais;
     private String perigos;
-    private String preocações;
+    private String precaucoes;
 }
