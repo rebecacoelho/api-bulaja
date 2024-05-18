@@ -20,6 +20,6 @@ public class Medicine {
     private List<String> remediosRelacionados;
     private String descricao;
     private String efeitosColaterais;
-    private String perigos;
+    private String tratamento;
     private String precaucoes;
 }
