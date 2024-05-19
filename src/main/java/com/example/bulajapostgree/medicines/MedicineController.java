@@ -8,6 +8,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping(value="/api")
+@CrossOrigin(origins = "*")
 public class MedicineController {
 
     private final MedicineRepository medicineRepository;
